@@ -1,6 +1,11 @@
 ~~ DO NOT EDIT THE FIRST 2 LINES
 ~~ FORMAT: <channel name> | <group name> | <logo> | <tvg-id>
 
-
-TVBS News | Taiwan News | |
+TVBS News | 港澳台 | |
 https://www.youtube.com/watch?v=BgfFctcUrmE
+
+中天新闻 | 港澳台 | |
+https://www.youtube.com/watch?v=YM-x5iUCB0s
+
+凤凰卫视资讯台 | 港澳台 | |
+https://www.youtube.com/watch?v=LgQXkmWxlVY
